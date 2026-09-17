@@ -6,3 +6,6 @@
 ## Activity 2
 <img width="518" height="137" alt="image" src="https://github.com/user-attachments/assets/368dd7b8-e92b-4d53-b705-01e9deb9abcc" />
 
+## Activity 3
+[Successful merge](merge-success.png)
+
