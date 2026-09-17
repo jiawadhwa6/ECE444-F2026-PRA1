@@ -11,3 +11,15 @@
 
 ## Activity 4 
 ![Commits](commits.png)
+
+
+## Activity 5
+
+### Rebase command
+![Rebase](rebase_commands.png)
+
+### Rebase BEFORE
+![Rebase](rebase_before.png)
+
+### Rebase AFTER
+![Rebase](rebase_after.png)
